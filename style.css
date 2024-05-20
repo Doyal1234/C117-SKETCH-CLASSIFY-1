@@ -1,0 +1,19 @@
+body{
+background-color: yellow;
+}
+
+#score{
+font-size: 32px;
+margin-left: 985px;
+
+}
+
+#timer{
+font-size: 32px;
+float: left;
+}
+
+#drawn{
+font-size: 28px;
+color: purple;
+}
